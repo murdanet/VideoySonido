@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SuperdogApp</string>
+    <string name="descripcion_app">"Superdog es un proyecto musical creado por Alex Guirao y Miguel Urdaneta.\n Con esta app puedes escuchar el primer albúm, lanzado en Junio de 2022.
+        \n Clica en los botones para acceder a contenido exclusivo de la banda, o en la portada si quieres ir a Youtube a escuchar el disco"</string>
+</resources>
